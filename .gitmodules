@@ -1,0 +1,3 @@
+[submodule "brian-test"]
+	path = brian-test
+	url = https://github.com/gm3dmo/brian-test
